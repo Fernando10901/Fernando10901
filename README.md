@@ -8,7 +8,7 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/fernando-g-45144328a/)
+[linkedin]: [https://www.linkedin.com/in/fernando-g-45144328a/]
 
 <!--
 
